@@ -7,6 +7,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody rb;
     private Animator anim;
     private bool isJumping = false;
+    private bool isRunning = false;
 
     public float jumpForce = 10f;
     public float fallMultiplier = 2.5f;
@@ -35,6 +36,37 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
+        if (Input.GetKey(KeyCode.LeftShift))
+        {
+            isRunning = true;
+        }
+        else
+        {
+            isRunning = false;
+        }
+
+        // Detección de la tecla W para caminar o correr
+        if (Input.GetKey(KeyCode.W))
+        {
+            if (isRunning)
+            {
+                // Activar la animación de correr
+                anim.SetBool("isRunning", true);
+                anim.SetBool("isWalk", false);
+            }
+            else
+            {
+                // Activar la animación de caminar
+                anim.SetBool("isWalk", true);
+                anim.SetBool("isRunning", false);
+            }
+        }
+        else
+        {
+            // Si no se presiona W, desactivar ambas animaciones
+            anim.SetBool("isWalk", false);
+            anim.SetBool("isRunning", false);
+        }
         
         if (!isJumping && rb.velocity.y == 0f && Input.GetKeyDown(KeyCode.Space))
         {
