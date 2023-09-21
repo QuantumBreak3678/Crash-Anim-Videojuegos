@@ -1,13 +1,17 @@
-using System.Collections;
+ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+
+    public GameObject TornadoMeshAnim; 
     private Rigidbody rb;
     private Animator anim;
     private bool isJumping = false;
     private bool isRunning = false;
+    private bool isAttacking = false;
+    
 
     public float jumpForce = 10f;
     public float fallMultiplier = 2.5f;
@@ -81,6 +85,19 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity += Vector3.up * Physics.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
         }
+        
+        if (Input.GetMouseButtonDown(0))
+        {
+            if (!isAttacking)
+            {
+                // Iniciar el ataque tipo remolino
+                anim.SetTrigger("Attack");
+                
+                // Agregar lógica adicional de ataque aquí
+                TornadoMeshAnim.SetActive(true);
+            }
+        }
+
     }
 
     IEnumerator StopJump(float duration)
