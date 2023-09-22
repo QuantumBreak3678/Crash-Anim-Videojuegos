@@ -1,11 +1,11 @@
- using System.Collections;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
-
-    public GameObject TornadoMeshAnim; 
+    public GameObject TornadoMeshAnim;
+    public SkinnedMeshRenderer CrashMesh;
     private Rigidbody rb;
     private Animator anim;
     private bool isJumping = false;
@@ -24,17 +24,12 @@ public class PlayerController : MonoBehaviour
         anim = GetComponent<Animator>();
     }
 
-    // Método llamado desde un evento de animación
     public void StartJump()
     {
-
-        // Aplicar fuerza hacia arriba para iniciar el salto
-        rb.velocity = new Vector3(rb.velocity.x, 0, rb.velocity.z); // Reiniciar la velocidad vertical
+        rb.velocity = new Vector3(rb.velocity.x, 0, rb.velocity.z);
         rb.AddForce(Vector3.up * jumpForce, ForceMode.Impulse);
 
         isJumping = true;
-
-        // Iniciar la corutina para controlar la duración del salto
         StartCoroutine(StopJump(jumpDuration));
     }
 
@@ -49,29 +44,25 @@ public class PlayerController : MonoBehaviour
             isRunning = false;
         }
 
-        // Detección de la tecla W para caminar o correr
         if (Input.GetKey(KeyCode.W))
         {
             if (isRunning)
             {
-                // Activar la animación de correr
                 anim.SetBool("isRunning", true);
                 anim.SetBool("isWalk", false);
             }
             else
             {
-                // Activar la animación de caminar
                 anim.SetBool("isWalk", true);
                 anim.SetBool("isRunning", false);
             }
         }
         else
         {
-            // Si no se presiona W, desactivar ambas animaciones
             anim.SetBool("isWalk", false);
             anim.SetBool("isRunning", false);
         }
-        
+
         if (!isJumping && rb.velocity.y == 0f && Input.GetKeyDown(KeyCode.Space))
         {
             anim.SetTrigger("Jump");
@@ -85,39 +76,55 @@ public class PlayerController : MonoBehaviour
         {
             rb.velocity += Vector3.up * Physics.gravity.y * (lowJumpMultiplier - 1) * Time.deltaTime;
         }
-        
+
+        // Detectar el clic izquierdo del mouse para iniciar el ataque
         if (Input.GetMouseButtonDown(0))
         {
             if (!isAttacking)
             {
                 // Iniciar el ataque tipo remolino
                 anim.SetTrigger("Attack");
-                
+
+                CrashMesh.enabled = false;
+
                 // Agregar lógica adicional de ataque aquí
                 TornadoMeshAnim.SetActive(true);
+
+                // Establecer que el jugador está atacando
+                isAttacking = true;
+                
+                // Después de 2 segundos, desactivar el ataque y la animación de ataque
+                StartCoroutine(StopAttack(0.8f));
             }
         }
-
     }
 
     IEnumerator StopJump(float duration)
     {
         yield return new WaitForSeconds(duration);
 
-        // Detener el salto
         rb.velocity = new Vector3(rb.velocity.x, 0, rb.velocity.z);
         isJumping = false;
 
-        // Cambiar a la animación de caída
         anim.SetBool("IsFalling", true);
     }
 
-    // Llamado cuando el personaje colisiona con el suelo
+    IEnumerator StopAttack(float duration)
+    {
+        yield return new WaitForSeconds(duration);
+
+        isAttacking = false;
+
+        // Desactivar la animación de ataque y el objeto de VFX
+        anim.SetTrigger("StopAttack");
+        CrashMesh.enabled = true;
+        TornadoMeshAnim.SetActive(false);
+    }
+
     private void OnCollisionEnter(Collision collision)
     {
         if (collision.gameObject.CompareTag("Ground"))
         {
-            // Cambiar a la animación de aterrizaje
             anim.SetBool("IsFalling", false);
             isJumping = false;
         }
