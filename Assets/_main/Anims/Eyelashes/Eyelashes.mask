@@ -1,0 +1,1561 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Eyelashes
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Crash
+    m_Weight: 0
+  - m_Path: Crash/Crash_arm
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/_shadow_spine
+      adj 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/_shadow_spine
+      adj 01/_shadow_spine adj 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/_dummy_spine
+      adj 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/_dummy_spine
+      adj 01/_dummy_spine adj 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/_shadow_spine
+      adj 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/_shadow_spine
+      adj 02/_shadow_spine adj 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/spine
+      adj 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/spine
+      adj 01/spine adj 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/_dummy_spine
+      adj 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/_dummy_spine
+      adj 02/_dummy_spine adj 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/_shadow_spine
+      adj 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/_shadow_spine
+      adj 03/_shadow_spine adj 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/spine
+      adj 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/spine
+      adj 02/spine adj 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/_dummy_spine
+      adj 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/_dummy_spine
+      adj 03/_dummy_spine adj 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/head
+      necklace"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/head
+      necklace/head necklace_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/_shadow_arm left upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/_shadow_arm left upper 01/_shadow_arm left upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/_dummy_arm left upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/_dummy_arm left upper 01/_dummy_arm left upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/_shadow_arm left lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/_shadow_arm left lower 01/_shadow_arm left lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/_shadow_arm left upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/_shadow_arm left upper 03/_shadow_arm left upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/arm left pad"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/arm left pad/arm left pad_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/arm left upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/arm left upper 01/arm left upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/arm left upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/arm left upper 03/arm left upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/_dummy_arm left lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/_dummy_arm left lower 01/_dummy_arm left
+      lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/_dummy_arm left upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/_dummy_arm left upper 03/_dummy_arm left
+      upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/_shadow_arm left cuff base"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/_shadow_arm left cuff base/_shadow_arm
+      left cuff base_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/_shadow_arm left lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/_shadow_arm left lower 03/_shadow_arm
+      left lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/arm left lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/arm left lower 01/arm left lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/arm left lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/arm left lower 03/arm left lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u6369.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u6369.L/\u624B\u6369.L_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/_dummy_arm left cuff base"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/_dummy_arm left cuff base/_dummy_arm
+      left cuff base_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/_dummy_arm left lower
+      03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/_dummy_arm left lower
+      03/_dummy_arm left lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base/arm
+      left cuff back"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base/arm
+      left cuff back/arm left cuff back_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base/arm
+      left cuff front"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base/arm
+      left cuff front/arm left cuff front_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base/arm
+      left cuff lower"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base/arm
+      left cuff lower/arm left cuff lower_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base/arm
+      left cuff upper"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/arm left cuff base/arm
+      left cuff upper/arm left cuff upper_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Hand Item"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Hand Item/Left Hand
+      Item_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Knuckle 1"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Knuckle 1/Left Knuckle
+      1_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Knuckle 2"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Knuckle 2/Left Knuckle
+      2_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Knuckle 3"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Knuckle 3/Left Knuckle
+      3_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Knuckle 4"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/Left Knuckle 4/Left Knuckle
+      4_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u4E2D\u6307\uFF11.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u4E2D\u6307\uFF11.L/\u4E2D\u6307\uFF12.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u4E2D\u6307\uFF11.L/\u4E2D\u6307\uFF12.L/\u4E2D\u6307\uFF13.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u4E2D\u6307\uFF11.L/\u4E2D\u6307\uFF12.L/\u4E2D\u6307\uFF13.L/\u4E2D\u6307\uFF13.L_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u4EBA\u6307\uFF11.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u4EBA\u6307\uFF11.L/\u4EBA\u6307\uFF12.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u4EBA\u6307\uFF11.L/\u4EBA\u6307\uFF12.L/\u4EBA\u6307\uFF13.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u4EBA\u6307\uFF11.L/\u4EBA\u6307\uFF12.L/\u4EBA\u6307\uFF13.L/\u4EBA\u6307\uFF13.L_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u5C0F\u6307\uFF11.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u5C0F\u6307\uFF11.L/\u5C0F\u6307\uFF12.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u5C0F\u6307\uFF11.L/\u5C0F\u6307\uFF12.L/\u5C0F\u6307\uFF13.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u5C0F\u6307\uFF11.L/\u5C0F\u6307\uFF12.L/\u5C0F\u6307\uFF13.L/\u5C0F\u6307\uFF13.L_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u89AA\u6307\uFF10.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u89AA\u6307\uFF10.L/\u89AA\u6307\uFF11.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u89AA\u6307\uFF10.L/\u89AA\u6307\uFF11.L/\u89AA\u6307\uFF12.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u3072\u3058.L/\u624B\u9996.L/\u89AA\u6307\uFF10.L/\u89AA\u6307\uFF11.L/\u89AA\u6307\uFF12.L/\u89AA\u6307\uFF12.L_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u8155\u6369.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.L/\u8155.L/\u8155\u6369.L/\u8155\u6369.L_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/_shadow_arm right upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/_shadow_arm right upper 01/_shadow_arm right upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/_dummy_arm right upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/_dummy_arm right upper 01/_dummy_arm right upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/_shadow_arm right lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/_shadow_arm right lower 01/_shadow_arm right lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/_shadow_arm right upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/_shadow_arm right upper 03/_shadow_arm right upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/arm right pad"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/arm right pad/arm right pad_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/arm right upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/arm right upper 01/arm right upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/arm right upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/arm right upper 03/arm right upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/_dummy_arm right lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/_dummy_arm right lower 01/_dummy_arm
+      right lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/_dummy_arm right upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/_dummy_arm right upper 03/_dummy_arm
+      right upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/_shadow_arm right cuff base"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/_shadow_arm right cuff base/_shadow_arm
+      right cuff base_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/_shadow_arm right lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/_shadow_arm right lower 03/_shadow_arm
+      right lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/arm right lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/arm right lower 01/arm right lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/arm right lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/arm right lower 03/arm right lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u6369.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u6369.R/\u624B\u6369.R_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/_dummy_arm right cuff
+      base"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/_dummy_arm right cuff
+      base/_dummy_arm right cuff base_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/_dummy_arm right lower
+      03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/_dummy_arm right lower
+      03/_dummy_arm right lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base/arm
+      right cuff back"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base/arm
+      right cuff back/arm right cuff back_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base/arm
+      right cuff front"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base/arm
+      right cuff front/arm right cuff front_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base/arm
+      right cuff lower"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base/arm
+      right cuff lower/arm right cuff lower_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base/arm
+      right cuff upper"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/arm right cuff base/arm
+      right cuff upper/arm right cuff upper_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Hand Item"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Hand Item/Right
+      Hand Item_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Knuckle 1"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Knuckle 1/Right
+      Knuckle 1_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Knuckle 2"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Knuckle 2/Right
+      Knuckle 2_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Knuckle 3"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Knuckle 3/Right
+      Knuckle 3_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Knuckle 4"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/Right Knuckle 4/Right
+      Knuckle 4_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u4E2D\u6307\uFF11.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u4E2D\u6307\uFF11.R/\u4E2D\u6307\uFF12.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u4E2D\u6307\uFF11.R/\u4E2D\u6307\uFF12.R/\u4E2D\u6307\uFF13.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u4E2D\u6307\uFF11.R/\u4E2D\u6307\uFF12.R/\u4E2D\u6307\uFF13.R/\u4E2D\u6307\uFF13.R_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u4EBA\u6307\uFF11.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u4EBA\u6307\uFF11.R/\u4EBA\u6307\uFF12.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u4EBA\u6307\uFF11.R/\u4EBA\u6307\uFF12.R/\u4EBA\u6307\uFF13.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u4EBA\u6307\uFF11.R/\u4EBA\u6307\uFF12.R/\u4EBA\u6307\uFF13.R/\u4EBA\u6307\uFF13.R_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u5C0F\u6307\uFF11.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u5C0F\u6307\uFF11.R/\u5C0F\u6307\uFF12.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u5C0F\u6307\uFF11.R/\u5C0F\u6307\uFF12.R/\u5C0F\u6307\uFF13.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u5C0F\u6307\uFF11.R/\u5C0F\u6307\uFF12.R/\u5C0F\u6307\uFF13.R/\u5C0F\u6307\uFF13.R_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u89AA\u6307\uFF10.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u89AA\u6307\uFF10.R/\u89AA\u6307\uFF11.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u89AA\u6307\uFF10.R/\u89AA\u6307\uFF11.R/\u89AA\u6307\uFF12.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u3072\u3058.R/\u624B\u9996.R/\u89AA\u6307\uFF10.R/\u89AA\u6307\uFF11.R/\u89AA\u6307\uFF12.R/\u89AA\u6307\uFF12.R_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u8155\u6369.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u80A9.R/\u8155.R/\u8155\u6369.R/\u8155\u6369.R_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 1a"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 1a/hair 1b"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 1a/hair 1b/hair 1c"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 1a/hair 1b/hair 1c/hair 1c_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 2a"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 2a/hair 2b"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 2a/hair 2b/hair 2c"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 2a/hair 2b/hair 2c/hair 2c_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 3a"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/hair 3a/hair 3a_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head ear left 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head ear left 01/head ear left 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head ear left 01/head ear left 02/head ear left 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head ear left 01/head ear left 02/head ear left 03/head
+      ear left 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head ear right 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head ear right 01/head ear right 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head ear right 01/head ear right 02/head ear right 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head ear right 01/head ear right 02/head ear right 03/head
+      ear right 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head eyeball adj left"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head eyeball adj left/head eyeball adj left_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head eyeball adj right"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head eyeball adj right/head eyeball adj right_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek left 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek left 01/head cheek left
+      01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek left 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek left 02/head cheek left
+      02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek left 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek left 03/head cheek left
+      03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek right 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek right 01/head cheek right
+      01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek right 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek right 02/head cheek right
+      02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek right 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head cheek right 03/head cheek right
+      03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head jawline left"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head jawline left/head jawline
+      left_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head jawline right"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head jawline right/head jawline
+      right_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower left 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower left 01/head
+      lip lower left 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower left 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower left 02/head
+      lip lower left 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower middle"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower middle/head
+      lip lower middle_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower right 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower right 01/head
+      lip lower right 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower right 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head lip lower right 02/head
+      lip lower right 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head teeth root lower"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head teeth root lower/head
+      teeth lower left"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head teeth root lower/head
+      teeth lower left/head teeth lower left_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head teeth root lower/head
+      teeth lower middle"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head teeth root lower/head
+      teeth lower middle/head teeth lower middle_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head teeth root lower/head
+      teeth lower right"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/head teeth root lower/head
+      teeth lower right/head teeth lower right_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/\u820C\uFF11"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/\u820C\uFF11/\u820C\uFF12"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/\u820C\uFF11/\u820C\uFF12/\u820C\uFF13"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head jaw/\u820C\uFF11/\u820C\uFF12/\u820C\uFF13/\u820C\uFF13_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper left 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper left 01/head lip upper
+      left 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper left 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper left 02/head lip upper
+      left 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper middle"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper middle/philtrum"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper middle/philtrum/philtrum_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper right 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper right 01/head lip upper
+      right 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper right 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head lip upper right 02/head lip upper
+      right 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head moustache left 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head moustache left 01/head moustache
+      left 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head moustache left 01/head moustache
+      left 02/head moustache left 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head moustache right 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head moustache right 01/head moustache
+      right 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head moustache right 01/head moustache
+      right 02/head moustache right 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head teeth root upper"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head teeth root upper/head teeth upper
+      left"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head teeth root upper/head teeth upper
+      left/head teeth upper left_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head teeth root upper/head teeth upper
+      middle"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head teeth root upper/head teeth upper
+      middle/head teeth upper middle_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head teeth root upper/head teeth upper
+      right"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root lower/head teeth root upper/head teeth upper
+      right/head teeth upper right_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj left 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj left 01/head eyebrow
+      adj left 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj left 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj left 02/head eyebrow
+      adj left 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj left 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj left 03/head eyebrow
+      adj left 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj right 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj right 01/head eyebrow
+      adj right 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj right 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj right 02/head eyebrow
+      adj right 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj right 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow adj right 03/head eyebrow
+      adj right 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow left 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow left 01/head eyebrow left
+      01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow left 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow left 02/head eyebrow left
+      02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow left 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow left 03/head eyebrow left
+      03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow right 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow right 01/head eyebrow
+      right 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow right 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow right 02/head eyebrow
+      right 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow right 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/head eyebrow right 03/head eyebrow
+      right 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid lower left
+      01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid lower left
+      01/head eyelid lower left 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid lower left
+      02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid lower left
+      02/head eyelid lower left 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid lower left
+      03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid lower left
+      03/head eyelid lower left 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid upper left
+      01"
+    m_Weight: 1
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid upper left
+      01/head eyelid upper left 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid upper left
+      02"
+    m_Weight: 1
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid upper left
+      02/head eyelid upper left 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid upper left
+      03"
+    m_Weight: 1
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head eyelid upper left
+      03/head eyelid upper left 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head pupil left"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head pupil left/head
+      pupil adj left"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Left Eye Root/head pupil left/head
+      pupil adj left/head pupil adj left_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid lower right
+      01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid lower right
+      01/head eyelid lower right 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid lower right
+      02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid lower right
+      02/head eyelid lower right 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid lower right
+      03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid lower right
+      03/head eyelid lower right 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid upper right
+      01"
+    m_Weight: 1
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid upper right
+      01/head eyelid upper right 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid upper right
+      02"
+    m_Weight: 1
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid upper right
+      02/head eyelid upper right 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid upper right
+      03"
+    m_Weight: 1
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head eyelid upper right
+      03/head eyelid upper right 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head pupil right"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head pupil right/head
+      pupil adj right"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head face root upper/Right Eye Root/head pupil right/head
+      pupil adj right/head pupil adj right_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head nose 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head nose 01/head nose 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head nose 01/head nose 02/head nose 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/head nose 01/head nose 02/head nose 03/head nose 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused bandana 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused bandana 01/unused bandana 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused bandana 01/unused bandana 02/unused bandana 02_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat 02/unused hat 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat 02/unused hat 03/unused hat 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat brim b"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat brim b/unused hat brim b_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat brim f"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat brim f/unused hat brim f_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat brim l"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat brim l/unused hat brim l_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat brim r"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/Shoulders
+      Root/\u9996/\u982D/unused hat 01/unused hat brim r/unused hat brim r_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/spine
+      adj 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/spine
+      adj 03/spine adj 04"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/spine
+      adj 03/spine adj 04/head underjaw left"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/spine
+      adj 03/spine adj 04/head underjaw left/head underjaw left_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/spine
+      adj 03/spine adj 04/head underjaw middle"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/spine
+      adj 03/spine adj 04/head underjaw middle/head underjaw middle_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/spine
+      adj 03/spine adj 04/head underjaw right"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0A\u534A\u8EAB/\u4E0A\u534A\u8EABB/\u4E0A\u534A\u8EAB2/spine
+      adj 03/spine adj 04/head underjaw right/head underjaw right_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/_shadow_leg left lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/_shadow_leg left lower 01/_shadow_leg left lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/_shadow_leg left upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/_shadow_leg left upper 03/_shadow_leg left upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/Left Thigh Twist"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/Left Thigh Twist/Left Thigh Twist_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/leg left upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/leg left upper 01/leg left upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/leg left upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/leg left upper 03/leg left upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/_dummy_leg left lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/_dummy_leg left lower 01/_dummy_leg left lower
+      01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/_dummy_leg left upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/_dummy_leg left upper 03/_dummy_leg left upper
+      03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/_shadow_leg left lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/_shadow_leg left lower 03/_shadow_leg left lower
+      03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/Left Ankle Twist"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/Left Ankle Twist/Left Ankle Twist_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base/leg left cuff back"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base/leg left cuff back/leg left
+      cuff back_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base/leg left cuff front"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base/leg left cuff front/leg left
+      cuff front_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base/leg left cuff int"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base/leg left cuff int/leg left cuff
+      int_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base/leg left cuff out"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left cuff base/leg left cuff out/leg left cuff
+      out_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left kneepad"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left kneepad/leg left kneepad_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left lower 01/leg left lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/leg left lower 03/leg left lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/\u8DB3\u9996.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/\u8DB3\u9996.L/_dummy_leg left lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/\u8DB3\u9996.L/_dummy_leg left lower 03/_dummy_leg
+      left lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/\u8DB3\u9996.L/\u3064\u307E\u5148.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Left
+      Hip/\u8DB3.L/\u3072\u3056.L/\u8DB3\u9996.L/\u3064\u307E\u5148.L/\u3064\u307E\u5148.L_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/_shadow_leg right upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/_shadow_leg right upper 01/_shadow_leg right upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/_dummy_leg right upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/_dummy_leg right upper 01/_dummy_leg right upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/_shadow_leg right lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/_shadow_leg right lower 01/_shadow_leg right lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/_shadow_leg right upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/_shadow_leg right upper 03/_shadow_leg right upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/leg right upper 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/leg right upper 01/leg right upper 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/leg right upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/leg right upper 03/leg right upper 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/Right Thigh Twist"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/Right Thigh Twist/Right Thigh Twist_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/_dummy_leg right lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/_dummy_leg right lower 01/_dummy_leg right lower
+      01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/_dummy_leg right upper 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/_dummy_leg right upper 03/_dummy_leg right upper
+      03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/_shadow_leg right lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/_shadow_leg right lower 03/_shadow_leg right lower
+      03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base/leg right cuff back"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base/leg right cuff back/leg right
+      cuff back_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base/leg right cuff front"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base/leg right cuff front/leg right
+      cuff front_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base/leg right cuff int"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base/leg right cuff int/leg right
+      cuff int_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base/leg right cuff out"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right cuff base/leg right cuff out/leg right
+      cuff out_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right kneepad"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right kneepad/leg right kneepad_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right lower 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right lower 01/leg right lower 01_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/leg right lower 03/leg right lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/Right Ankle Twist"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/Right Ankle Twist/Right Ankle Twist_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/\u8DB3\u9996.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/\u8DB3\u9996.R/_dummy_leg right lower 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/\u8DB3\u9996.R/_dummy_leg right lower 03/_dummy_leg
+      right lower 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/\u8DB3\u9996.R/\u3064\u307E\u5148.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/Right
+      Hip/\u8DB3.R/\u3072\u3056.R/\u8DB3\u9996.R/\u3064\u307E\u5148.R/\u3064\u307E\u5148.R_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 b"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 b/unused skirt 02 b"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 b/unused skirt 02 b/unused skirt 02 b_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 f"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 f/unused skirt 02 f"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 f/unused skirt 02 f/unused skirt 02 f_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 l"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 l/unused skirt 02 l"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 l/unused skirt 02 l/unused skirt 02 l_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 r"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 r/unused skirt 02 r"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      skirt 01 r/unused skirt 02 r/unused skirt 02 r_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      tail 01"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      tail 01/unused tail 02"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      tail 01/unused tail 02/unused tail 03"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u30BB\u30F3\u30BF\u30FC/\u30B0\u30EB\u30FC\u30D6/\u4E0B\u534A\u8EAB/unused
+      tail 01/unused tail 02/unused tail 03/unused tail 03_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u8DB3\uFF29\uFF2B.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u8DB3\uFF29\uFF2B.L/\u3064\u307E\u5148\uFF29\uFF2B.L"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u8DB3\uFF29\uFF2B.L/\u3064\u307E\u5148\uFF29\uFF2B.L/\u3064\u307E\u5148\uFF29\uFF2B.L_end"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u8DB3\uFF29\uFF2B.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u8DB3\uFF29\uFF2B.R/\u3064\u307E\u5148\uFF29\uFF2B.R"
+    m_Weight: 0
+  - m_Path: "Crash/Crash_arm/\u5168\u3066\u306E\u89AA/\u8DB3\uFF29\uFF2B.R/\u3064\u307E\u5148\uFF29\uFF2B.R/\u3064\u307E\u5148\uFF29\uFF2B.R_end"
+    m_Weight: 0
+  - m_Path: Crash/joints
+    m_Weight: 0
+  - m_Path: Crash/joints/000_J.head nose 01
+    m_Weight: 0
+  - m_Path: Crash/joints/00A_J.hair 2a
+    m_Weight: 0
+  - m_Path: Crash/joints/00B_J.hair 2b
+    m_Weight: 0
+  - m_Path: Crash/joints/00C_J.hair 2c
+    m_Weight: 0
+  - m_Path: Crash/joints/00D_J.hair 1a
+    m_Weight: 0
+  - m_Path: Crash/joints/00E_J.hair 1b
+    m_Weight: 0
+  - m_Path: Crash/joints/00F_J.hair 1c
+    m_Weight: 0
+  - m_Path: Crash/joints/001_J.head nose 02
+    m_Weight: 0
+  - m_Path: Crash/joints/002_J.head nose 03
+    m_Weight: 0
+  - m_Path: Crash/joints/003_J.head ear left 01
+    m_Weight: 0
+  - m_Path: Crash/joints/004_J.head ear left 02
+    m_Weight: 0
+  - m_Path: Crash/joints/005_J.head ear left 03
+    m_Weight: 0
+  - m_Path: Crash/joints/006_J.head ear right 01
+    m_Weight: 0
+  - m_Path: Crash/joints/007_J.head ear right 02
+    m_Weight: 0
+  - m_Path: Crash/joints/008_J.head ear right 03
+    m_Weight: 0
+  - m_Path: Crash/joints/009_J.hair 3a
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies
+    m_Weight: 0
+  - m_Path: "Crash/rigidbodies/000_\u982D"
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/00A_hair 3a
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/00B_hair 2a
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/00C_hair 2b
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/00D_hair 2c
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/00E_hair 1a
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/00F_hair 1b
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/00G_hair 1c
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/001_head nose 01
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/002_head nose 02
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/003_head nose 03
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/004_head ear left 01
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/005_head ear left 02
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/006_head ear left 03
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/007_head ear right 01
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/008_head ear right 02
+    m_Weight: 0
+  - m_Path: Crash/rigidbodies/009_head ear right 03
+    m_Weight: 0
+  - m_Path: Crash_mesh
+    m_Weight: 0
